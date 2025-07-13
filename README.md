@@ -1,2 +1,2 @@
-# An-lisis-de-Separabilidad
-Repositorio de datos y análisis 
+# Visualización interactiva de resultados
+
